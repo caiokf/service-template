@@ -1,0 +1,17 @@
+.aws-sam
+.DS_Store
+.env
+.envrc
+.eslintcache
+.stackery
+.vscode
+.idea
+*-debug.log
+
+bin/
+node_modules/
+
+workflows/
+
+TODO.md
+README.md
